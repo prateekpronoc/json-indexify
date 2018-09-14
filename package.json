@@ -1,0 +1,28 @@
+{
+  "name": "json-indexify",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prateekpronoc/json-indexify.git"
+  },
+  "keywords": [
+    "json",
+    "indexify"
+  ],
+  "author": "Prateek Kumar Srivastava",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prateekpronoc/json-indexify/issues"
+  },
+  "homepage": "https://github.com/prateekpronoc/json-indexify#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "lodash": "^4.17.11",
+    "mocha": "^5.2.0"
+  }
+}
