@@ -7,7 +7,7 @@ A small library that indexify the array of json objects
 
 ## Usage
 
-    var indexify = require('json-indxify');
+    var indexify = require('json-indexify');
 
     var indexifiesObject = indexify([{ id: 91, value: 'India' }, { id: 1, name: 'USA' },'id','value');
   
