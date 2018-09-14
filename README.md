@@ -12,7 +12,7 @@ A small library that indexify the array of json objects
     var indexifiesObject = indexify([{ id: 91, value: 'India' }, { id: 1, name: 'USA' });
   
   
-  Output should be `{91:'India',1:'UDSA'}`
+  Output should be `{'1': 'USA', '91': 'India'}`
 
 
 ## Tests
