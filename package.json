@@ -1,6 +1,6 @@
 {
   "name": "json-indexify",
-  "version": "0.1.4",
+  "version": "0.1.4.1",
   "description": "",
   "main": "index.js",
   "scripts": {
