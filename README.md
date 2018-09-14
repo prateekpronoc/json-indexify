@@ -25,3 +25,6 @@ In lieu of a formal style guide, take care to maintain the existing coding style
 
 
 [![Build Status](https://travis-ci.org/prateekpronoc/json-indexify.svg?branch=master)](https://travis-ci.org/prateekpronoc/json-indexify)
+
+
+[![Coverage Status](https://coveralls.io/repos/github/prateekpronoc/json-indexify/badge.svg?branch=master)](https://coveralls.io/github/prateekpronoc/json-indexify?branch=master)
