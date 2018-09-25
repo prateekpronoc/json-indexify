@@ -1,6 +1,8 @@
 # json-indexify
 [![Build Status](https://travis-ci.org/prateekpronoc/json-indexify.svg?branch=master)](https://travis-ci.org/prateekpronoc/json-indexify) [![Coverage Status](https://coveralls.io/repos/github/prateekpronoc/json-indexify/badge.svg?branch=master)](https://coveralls.io/github/prateekpronoc/json-indexify?branch=master) [![npm version](https://badge.fury.io/js/json-indexify.svg)](https://badge.fury.io/js/json-indexify) [![dependencies](https://david-dm.org/prateekpronoc/json-indexify.svg)](https://david-dm.org/prateekpronoc/json-indexify)
 
+[![NPM](https://nodei.co/npm/json-indexify.png?mini=true)](https://nodei.co/npm/json-indexify/)
+
 
 A small library that indexify the array of json objects
 
